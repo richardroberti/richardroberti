@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=100&pause=100&color=FF00FF&background=00FFF000&center=true&vCenter=true&random=true&width=435&lines=high+tech%2C+low+life)](https://github.com/richardroberti)
 
-# Richard Roberti
 
 
 I'm exploring programming, computer systems, and the tools behind modern software.
