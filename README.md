@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=40&duration=100&pause=100&color=FF00FF&background=00FFF000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=high+tech%2C+low+life)](https://github.com/richardroberti)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=100&pause=100&color=FF00FF&background=00FFF000&center=true&vCenter=true&random=true&width=435&lines=high+tech%2C+low+life)](https://github.com/richardroberti)
 
 # Richard Roberti
 
